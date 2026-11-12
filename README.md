@@ -12,6 +12,7 @@ I build small, sharp CLI/TUI tools and MCP servers that AI clients can actually 
 
 | Project · 项目 | English | 中文 |
 | --- | --- | --- |
+| [**jenkins-mcp-go**](https://github.com/zouxiaoliang/jenkins-mcp-go) | Jenkins MCP server — expose a Jenkins controller to AI clients over stdio or Streamable HTTP | Jenkins MCP 服务：把 Jenkins 控制器暴露给 AI 客户端，stdio / Streamable HTTP |
 | [**mihomoctl**](https://github.com/zouxiaoliang/mihomoctl) | TUI/CLI for Mihomo (Clash Meta) — manage proxies, rules, and connections from the terminal | Mihomo（Clash Meta）终端 TUI/CLI，管理代理、规则与连接 |
 | [**charles-mcp-go**](https://github.com/zouxiaoliang/charles-mcp-go) | Inspect Charles Proxy traffic from AI clients: capture, decode, analyze, replay | 从 AI 客户端查看 Charles 抓包：捕获、解码、分析、重放 |
 | [**image-gen-mcp**](https://github.com/zouxiaoliang/image-gen-mcp) | Generate and edit images via MCP — one Go binary, multiple providers | 通过 MCP 生成与编辑图片：单二进制，多厂商 |
