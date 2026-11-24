@@ -12,6 +12,7 @@ I build small, sharp CLI/TUI tools and MCP servers that AI clients can actually 
 
 | Project · 项目 | English | 中文 |
 | --- | --- | --- |
+| [**zloom**](https://github.com/zouxiaoliang/zloom) | Manifest-driven Zsh plugin manager descended from zgen — static, byte-compiled init.zsh, fisher-style manifest, deferred loading, oh-my-zsh / Prezto | 由 zgen 演进而来的清单驱动 Zsh 插件管理器：静态、经字节码编译的 init.zsh，支持 fisher 风格清单、延迟加载、oh-my-zsh 与 Prezto |
 | [**jenkins-mcp-go**](https://github.com/zouxiaoliang/jenkins-mcp-go) | Jenkins MCP server — expose a Jenkins controller to AI clients over stdio or Streamable HTTP | Jenkins MCP 服务：把 Jenkins 控制器暴露给 AI 客户端，stdio / Streamable HTTP |
 | [**mihomoctl**](https://github.com/zouxiaoliang/mihomoctl) | TUI/CLI for Mihomo (Clash Meta) — manage proxies, rules, and connections from the terminal | Mihomo（Clash Meta）终端 TUI/CLI，管理代理、规则与连接 |
 | [**charles-mcp-go**](https://github.com/zouxiaoliang/charles-mcp-go) | Inspect Charles Proxy traffic from AI clients: capture, decode, analyze, replay | 从 AI 客户端查看 Charles 抓包：捕获、解码、分析、重放 |
